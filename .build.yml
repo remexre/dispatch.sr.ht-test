@@ -5,3 +5,4 @@ sources:
 tasks:
 - install-hello: nix-env -iA nixos.hello
 - hello: hello
+- fail: false
